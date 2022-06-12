@@ -134,3 +134,4 @@ The team has outlined the following objectives in working towards the overall go
 
 - [GitHub](https://github.com/purdue-arc/rocket_league)
 - [Spring 2021 Presentation](https://drive.google.com/file/d/1zw7jYFSYIVamnQTyYaT1TCJGP7sZOg1J/view?usp=sharing)
+- [Stable Baseline 3 Documentation](https://stable-baselines3.readthedocs.io/en/master/)
